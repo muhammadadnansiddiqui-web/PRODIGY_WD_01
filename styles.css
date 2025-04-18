@@ -16,7 +16,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #304dee;
+    background-color: #6279fc;
     z-index: 1000;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
   }
@@ -57,7 +57,7 @@
   }
   
   .nav-links li a:hover {
-    background-color: #6b7eeb;
+    background-color: #282c41;
   }
   
   /* Hamburger */
